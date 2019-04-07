@@ -4,7 +4,7 @@ import org.junit.Test;
 
 /**
  * @author zlb
- * @description:
+ * @description: 1
  * @date 2019/3/30 22:10
  */
 public class TwoSum {
