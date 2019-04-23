@@ -11,6 +11,8 @@ Easy<br>
 https://github.com/woshishitou/LeetCode-Practice/blob/master/src/reverse_string/ReverseString.java<br>
 709、ToLowerCase<br>
 https://github.com/woshishitou/LeetCode-Practice/blob/master/src/to_lower_case/ToLowerCase.java<br>
+929、UniqueEmailAddresses
+https://github.com/woshishitou/LeetCode-Practice/blob/master/src/string/easy/unique_email_addresses/UniqueEmailAddresses.java
 <br>
 HashTable<br>
 Easy<br>
