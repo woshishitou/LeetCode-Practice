@@ -1,4 +1,4 @@
-package to_lower_case;
+package string.easy.to_lower_case;
 
 import org.junit.Test;
 

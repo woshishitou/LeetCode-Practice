@@ -1,4 +1,4 @@
-package two_sum;
+package array.easy.two_sum;
 
 import org.junit.Test;
 

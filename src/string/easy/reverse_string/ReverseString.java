@@ -1,8 +1,6 @@
-package reverse_string;
+package string.easy.reverse_string;
 
 import org.junit.Test;
-
-import javax.sound.midi.Soundbank;
 
 /**
  * @author zlb
