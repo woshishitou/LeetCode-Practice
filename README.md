@@ -16,6 +16,11 @@ https://github.com/woshishitou/LeetCode-Practice/blob/master/src/string/easy/uni
 938. Range Sum of BST<br>
 https://github.com/woshishitou/LeetCode-Practice/blob/master/src/string/easy/range_sum_of_bst/RangeSumOfBST.java<br>
 <br>
+Tree<br>
+Easy<br>
+938. Range Sum of BST<br>
+https://github.com/woshishitou/LeetCode-Practice/blob/master/src/string/easy/range_sum_of_bst/RangeSumOfBST.java<br>
+<br>
 HashTable<br>
 Easy<br>
 771、JewelsAndStones<br>
