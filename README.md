@@ -21,6 +21,8 @@ https://github.com/woshishitou/LeetCode-Practice/blob/master/src/string/easy/rob
 https://github.com/woshishitou/LeetCode-Practice/blob/master/src/to_lower_case/ToLowerCase.java<br>
 804、UniqueMorseCodeWords<br>
 https://github.com/woshishitou/LeetCode-Practice/blob/master/src/string/easy/unique_morse_code_words/UniqueMorseCodeWords.java<br>
+824、Goat Latin<br>
+https://github.com/woshishitou/LeetCode-Practice/blob/master/src/string/easy/goat_latin/GoatLatin.java<br>
 893、GroupsofSpecialEquivalentStrings（待优化）<br>
 https://github.com/woshishitou/LeetCode-Practice/blob/master/src/string/easy/groups_of_special_equivalent_strings/GroupsofSpecialEquivalentStrings.java<br>
 929、UniqueEmailAddresses（待优化）<br>
